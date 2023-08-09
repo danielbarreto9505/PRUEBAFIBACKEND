@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRUEBAFIBACKEND", "PRUEBAFIBACKEND\PRUEBAFIBACKEND.csproj", "{4C52D27B-9168-4788-A489-1737DF50A3AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C52D27B-9168-4788-A489-1737DF50A3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C52D27B-9168-4788-A489-1737DF50A3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C52D27B-9168-4788-A489-1737DF50A3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C52D27B-9168-4788-A489-1737DF50A3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDB1C1AA-A912-443A-B747-C3B16478F4FA}
+	EndGlobalSection
+EndGlobal
